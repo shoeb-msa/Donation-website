@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(122, 196, 243);
+}
+.img1{
+    justify-content: center;
+    
+    height: 760px;
+    width: 100%;
+}
+.welcome{
+    background-color: rgb(23, 23, 22);
+    color: rgb(216, 241, 241);
+    text-align: center;
+    height: 70px;
+    padding-top: 1px;
+    border-radius: 20px;
+}

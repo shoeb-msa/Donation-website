@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+}
+
+/* Heading */
+.heading h2{
+    font-size: 28px;
+    font-weight: 500;
+    border-left: 8px solid #303054;
+    padding: 5px 15px;
+    margin-bottom: 15px;
+}
+.heading p{
+    font-size: 18px;
+}
+.heading p span{
+    font-weight: 600;
+    color: #303054;
+}
+
+.btn1{
+    font-size: 1rem;
+    font-weight: 400;
+    background-color: #303054;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none !important;
+    transition: all 0.5s;
+}
+.btn1:hover{
+    background-color: #e6edff;
+    color: #303054;
+}
+
+header{
+    background-color: #303054;
+    width: 100%;
+    
+}
+
+header .navbar-brand{
+    font-size: 22px;
+    font-weight: 600;
+    color: #fff;
+}
+
+nav{
+    padding: 8px 0px !important;
+}
+
+
+.don-sec{
+    background-color: #e6edff;
+    padding: 250px 0;
+}
+
+.don-sec .don-box{
+    margin: 50px 0;
+    background-color: #fff;
+    padding: 80px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 0 15px #b4afaf;
+    transition: all 1s;
+}
+
+.don-sec .don-box img{
+    width: 150px;
+}
+
+.don-sec .don-box p{
+    margin-top: 10px;
+}
+.img1{
+    height: 220px;
+}
+.img2{
+    height: 220px;
+    width: 700px;
+
+}
+
+
+
+
+
+
+
